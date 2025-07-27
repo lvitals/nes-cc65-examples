@@ -2,3 +2,4 @@
 /obj/
 /examples/build/
 /examples/obj/
+lib/crt0.o
